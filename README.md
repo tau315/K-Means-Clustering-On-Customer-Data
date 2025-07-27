@@ -1,2 +1,2 @@
-# K-Means-Clustering-On-Neural-Activity
-Implemented K-Means clustering algorithm on 2-Photon Calcium Imaging dataset from Allen Institute for Brain Science
+# K-Means-Clustering-On-Customer_Data
+Implemented K-Means clustering algorithm on customer segmentation data from Kaggle
